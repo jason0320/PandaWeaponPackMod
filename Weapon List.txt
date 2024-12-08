@@ -1,7 +1,6 @@
 # Melee
 ## Long Sword
 Fleure
-Gunblade
 
 ## Axe
 Tomahawk
@@ -25,7 +24,6 @@ Nunchaku
 ## Polearm
 Lance
 Drill
-Gunlance
 
 ## Short Sword
 Kitchen Knife
@@ -44,6 +42,5 @@ Crossfire
 Rock
 
 ## Firearm
-Shotgun
 Sniper Rifle
 Gun Pair
