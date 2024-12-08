@@ -1,0 +1,49 @@
+# Melee
+## Long Sword
+Fleure
+Gunblade
+
+## Axe
+Tomahawk
+Chainsaw
+
+## Sickle
+Chainsickle
+Bone Scythe
+Scissors
+
+## Mace
+Sox
+Star Hammer
+Warhammer
+
+## Staff
+Whip
+Shakujo
+Nunchaku
+
+## Polearm
+Lance
+Drill
+Gunlance
+
+## Short Sword
+Kitchen Knife
+Kunai
+
+# Ranged
+## Bow
+Blade Bow
+
+## Crossbow
+Repeating bow
+Ballista
+Crossfire
+
+## Throwing
+Rock
+
+## Firearm
+Shotgun
+Sniper Rifle
+Gun Pair
