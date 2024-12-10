@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Meta>
-	<title>Panda's Mass Produced Gun Mod</title>
-	<id>Mod_PandaMassProducedGunMod</id>
+	<title>Panda's Weapon Pack Mod</title>
+	<id>Mod_PandaWeaponPackMod</id>
 	<author>Now Happy Panda</author>
 	<tags>General,Item</tags>
 	<loadPriority>10</loadPriority>
 	<description>
-		Add various weapons from Elonaplus
+Add various weapons from Elonaplus
+Long Sword: Fleure
+Axe: Chainsaw
+Sickle: Chainsickle, Bone Scythe, Scissors
+Mace: Star Hammer, Warhammer
+Staff: Whip, Shakujo
+Polearm: Lance, Drill
+Bow: Blade Bow
+Crossbow: Repeating bow, Ballista, Crossfire
+Gun: Sniper Rifle
+Throwing: Tomahawk, Sox, Kunai
 	</description>
 	<version>0.23.50</version>
 </Meta>

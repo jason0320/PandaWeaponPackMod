@@ -1,46 +1,10 @@
-# Melee
-## Long Sword
-Fleure
-
-## Axe
-Tomahawk
-Chainsaw
-
-## Sickle
-Chainsickle
-Bone Scythe
-Scissors
-
-## Mace
-Sox
-Star Hammer
-Warhammer
-
-## Staff
-Whip
-Shakujo
-Nunchaku
-
-## Polearm
-Lance
-Drill
-
-## Short Sword
-Kitchen Knife
-Kunai
-
-# Ranged
-## Bow
-Blade Bow
-
-## Crossbow
-Repeating bow
-Ballista
-Crossfire
-
-## Throwing
-Rock
-
-## Firearm
-Sniper Rifle
-Gun Pair
+Long Sword: Fleure
+Axe: Chainsaw
+Sickle: Chainsickle, Bone Scythe, Scissors
+Mace: Star Hammer, Warhammer
+Staff: Whip, Shakujo
+Polearm: Lance, Drill
+Bow: Blade Bow
+Crossbow: Repeating bow, Ballista, Crossfire
+Gun: Sniper Rifle
+Throwing: Tomahawk, Sox, Kunai
